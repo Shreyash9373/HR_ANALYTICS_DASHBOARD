@@ -32,6 +32,8 @@ This dashboard answers the following business questions:
 
 > Dashboard screenshots are:
 > ![HR_ANALYTICS_DASHBOARD](screenshots/HR_DASHBOARD.png)
+> ![HR_ANALYTICS_DASHBOARD](screenshots/HR_1.png)
+> ![HR_ANALYTICS_DASHBOARD](screenshots/HR_2.png)
 
 ---
 
