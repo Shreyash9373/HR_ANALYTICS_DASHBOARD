@@ -24,6 +24,15 @@ This dashboard answers the following business questions:
 - Which employees can be filtered by the first letter of their name?
 - Which job roles have the highest average leave balance?
 
+
+---
+
+
+## 📷 Dashboard Preview
+
+> Dashboard screenshots are:
+> ![HR_ANALYTICS_DASHBOARD](screenshots/HR_DASHBOARD.png)
+
 ---
 
 ## 📊 Dashboard Features
@@ -76,15 +85,6 @@ This dashboard answers the following business questions:
 - Product Managers receive the highest average salary.
 - Employee headcount has steadily increased over time.
 - Leave balance varies significantly across different job roles.
-
----
-
-
-## 📷 Dashboard Preview
-
-> Dashboard screenshots are available in this repository.
-
----
 
 ## 📚 Skills Demonstrated
 
